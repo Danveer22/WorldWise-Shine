@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "842a",
+      "cityName": "Dhamtari",
+      "country": "",
+      "date": "2024-06-26T18:04:25.363Z",
+      "emoji": "IN",
+      "position": {
+        "lat": 20.627643341686756,
+        "lng": 81.52542114257814
+      },
+      "notes": "hello how are you"
+    }
+  ]
 }
